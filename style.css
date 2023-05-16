@@ -76,7 +76,7 @@ p{
 }
 
 .header{
-    background: #febe7b;
+    background: #f8af61;
 }
 .header row{
     margin-top: 70px;
@@ -299,6 +299,8 @@ ul{
         cursor: pointer;
     }
 }
+
+
 /*-----------all Products Page-------------*/
 
 .row-2{
